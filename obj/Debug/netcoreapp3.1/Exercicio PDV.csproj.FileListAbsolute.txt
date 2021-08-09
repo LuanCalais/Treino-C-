@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\bin\Debug\netcoreapp3.1\Exercicio PDV.exe
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\bin\Debug\netcoreapp3.1\Exercicio PDV.deps.json
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\bin\Debug\netcoreapp3.1\Exercicio PDV.runtimeconfig.json
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\bin\Debug\netcoreapp3.1\Exercicio PDV.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\bin\Debug\netcoreapp3.1\Exercicio PDV.dll
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\bin\Debug\netcoreapp3.1\Exercicio PDV.pdb
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\obj\Debug\netcoreapp3.1\Exercicio PDV.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\obj\Debug\netcoreapp3.1\Exercicio_PDV.Pn1.resources
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\obj\Debug\netcoreapp3.1\Exercicio_PDV.Properties.Resources.resources
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\obj\Debug\netcoreapp3.1\Exercicio PDV.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\obj\Debug\netcoreapp3.1\Exercicio PDV.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\obj\Debug\netcoreapp3.1\Exercicio PDV.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\obj\Debug\netcoreapp3.1\Exercicio PDV.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\obj\Debug\netcoreapp3.1\Exercicio PDV.dll
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\obj\Debug\netcoreapp3.1\Exercicio PDV.pdb
+C:\Users\User\source\repos\Exercicio PDV\Exercicio PDV\obj\Debug\netcoreapp3.1\Exercicio PDV.genruntimeconfig.cache
