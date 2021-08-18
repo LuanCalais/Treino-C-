@@ -20,6 +20,13 @@ namespace Exercicio_PDV.Modelo
             this.Preco = preco;
         }
 
+        public Produto(int quantidade, double preco, double total)
+        {
+            this.Quantidade = quantidade;
+            this.Preco = preco;
+            this.Total = total;
+        }
+
         public Produto(int codigo, string descricao, int quantidade, double preco)
         {
             this.Codigo = codigo;

@@ -41,8 +41,18 @@ namespace Exercicio_PDV
         {
             int quantidade = int.Parse(txtQuantidade.Text);
             double preco = double.Parse(txtPreco.Text);
+            double aux = double.Parse(txtTotal.Text);
 
-            Produto prod = new Produto(quantidade, preco);
+            Produto prod;
+
+            if (aux != 0)
+            {
+                prod = new Produto(quantidade, preco, aux);
+            }
+            else
+            {
+                prod = new Produto(quantidade, preco);
+            }
 
             double total = prod.somaTotal(prod);
 
