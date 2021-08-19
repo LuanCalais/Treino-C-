@@ -237,8 +237,10 @@ namespace Exercicio_PDV
             // 
             this.txtTotal.Location = new System.Drawing.Point(465, 452);
             this.txtTotal.Name = "txtTotal";
+            this.txtTotal.PlaceholderText = "0";
             this.txtTotal.Size = new System.Drawing.Size(100, 23);
             this.txtTotal.TabIndex = 5;
+            this.txtTotal.Text = "0";
             // 
             // Pn1
             // 
